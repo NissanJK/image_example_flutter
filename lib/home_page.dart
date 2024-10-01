@@ -77,7 +77,7 @@ class HomePage extends StatelessWidget {
                           Fluttertoast.showToast(msg: "Why click me ??");
                           Navigator.push(context, MaterialPageRoute(builder: (context)=>NewPage2()));
                         },
-                        child: Text("Click Me"))
+                        child: Text("Click Me Not"))
                   ],
                 ),
                 SizedBox(height: 20,),
