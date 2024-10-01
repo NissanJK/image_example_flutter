@@ -3,6 +3,8 @@
 Image, navigation and toast example in flutter
 
 ![screenshot](assets/images/img.png)
+![screenshot](assets/images/img_1.png)
+![screenshot](assets/images/img_2.png)
 
 ## Getting Started
 
